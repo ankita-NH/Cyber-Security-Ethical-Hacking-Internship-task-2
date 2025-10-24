@@ -1,0 +1,6 @@
+Target: scanme.nmap.org
+IP: 45.33.32.156
+Ping: Success
+Web Server: Apache/2.4.7
+Registrar: . . .
+Name Servers: . . .

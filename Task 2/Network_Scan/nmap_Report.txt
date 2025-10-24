@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Tue Oct 14 21:08:20 2025 as: /usr/lib/nmap/nmap -sS -sV -O --script vuln -oN nmap_Report.txt 192.168.1.3
